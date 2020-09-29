@@ -3,14 +3,14 @@ set-vim
 
 vimrc
 
-git clone https://github.com/vkazoo/set-vim.git
+git clone https://github.com/vkazoo/zshrc.git
 
 
-cp set-vim/vim/.vimrc .
+cp zshrc/vim/.vimrc .
 
-cp set-vim/zsh/.zshrc .
+cp zshrc/zsh/.zshrc .
 
-cp set-vim/screen/.screenrc .byobu/ // byobuに切替
+cp zshrc/screen/.screenrc .byobu/ // byobuに切替
 
 
 
